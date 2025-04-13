@@ -1,1 +1,3 @@
 .vscode
+data/cnn_images
+titanic_submission.csv
